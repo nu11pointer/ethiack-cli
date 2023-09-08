@@ -25,7 +25,7 @@
 
 This is a (unofficial) utility that works as a client to the Ethiack platform. It allows you to perform multiple operations directly from the command-line.  
 The tool uses the official [Ethiack API](https://api.ethiack.com/) and the [Ethiack's GraphQL](https://gql.ethiack.com/) endpoint to access the data it needs.  
-It contains several modules so you manage and view information related to your profile, users, leaderboard, events, etc.
+It contains several modules so you can manage and view information related to your profile, users, leaderboard, events, etc.
 
 ## Usage
 
