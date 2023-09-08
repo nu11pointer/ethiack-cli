@@ -239,7 +239,7 @@ dev.example.com
 Shows information from a user (can be a hacker, triager or an organization member or account). This contains data such as username, rank, points, role, entity type, join date, country and URL to portal.
 
 ```txt
-ethiack user hackerman
+ethiack user newbie
 
 User
 ----------------------------------------
