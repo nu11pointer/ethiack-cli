@@ -1,5 +1,7 @@
 # Ethiack CLI Utility
 
+[![Ethiack Logo](static/logo.png)](https://ethiack.com/)
+
 ## Index
 
 1. [Description](#description)
@@ -115,7 +117,7 @@ events [running]            Gets a list of events you're associated with
 help                        Show the help page
 leaderboard [country]       Hacker leaderboard
 profile                     Your public profile
-scope <event> [save]        Get the scope for an event
+scope <event> [save]        Get the scope of an event
 user <user>                 Get a user's public profile
 version                     Show the utility version
 ```
