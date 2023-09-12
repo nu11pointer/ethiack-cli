@@ -196,9 +196,7 @@ Username: hackerman
 Name: Hacker Man
 Rank: #2 (TOP 3)
 Points: 464.48
-VAT: PT 123456789
 Role: hacker
-Entity: individual
 Joined at: 2023-06-08T22:52:18
 Country: PT
 URL: https://portal.ethiack.com/hackerman
@@ -249,7 +247,6 @@ Username: newbie
 Rank: #6 (TOP 10)
 Points: 73.50
 Role: hacker
-Entity: individual
 Joined at: 2023-09-08T15:30:18
 Country: PT
 URL: https://portal.ethiack.com/newbie
@@ -263,7 +260,7 @@ Display the utility version.
 ```txt
 ethiack version
 
-ethiack-cli v1.0.0
+ethiack-cli v1.0.1
 ```
 
 ## License
