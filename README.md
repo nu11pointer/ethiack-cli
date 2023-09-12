@@ -1,5 +1,10 @@
 # Ethiack CLI Utility
 
+![Python](https://img.shields.io/badge/Python-%3E%3D3.10-blue?logo=python)
+![License](https://img.shields.io/badge/License-MIT%20License-yellow)
+![Maintained](https://img.shields.io/badge/Maintained-yes-green)
+![GitHub Repo stars](https://img.shields.io/github/stars/fssecur3/ethiack-cli?logo=github&label=Stars&color=red)
+
 [![Ethiack Logo](static/logo.png)](https://ethiack.com/)
 
 ## Index
